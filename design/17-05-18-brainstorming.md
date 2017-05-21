@@ -24,3 +24,11 @@
 - IoT door bell
 - Welcome screen
 	* Placed on door, could be used to say things like "Do Not Disturb"
+- Key hanger
+- Garbage checker
+    * Sensor for height and weight of garbage
+
+
+## Dashboards
+- Mobile App/Desktop App (ionic, phoneGap)
+- Physical screen for displaying notes
